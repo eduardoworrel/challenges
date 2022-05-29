@@ -6,7 +6,7 @@
  **/
 
 
- function twoSum(nums: number[], target: number): number[] {
+ function twoSum_bad(nums: number[], target: number): number[] {
     
     let cursor_a = 0;
     let cursor_b = 0;
